@@ -1,2 +1,2 @@
 # Python
-Esse repositório concentra alguns projetos mais simples feitos em python!
+This repository holds some of my simple Python projects! 
